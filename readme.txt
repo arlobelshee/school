@@ -1,0 +1,1 @@
+This is a simple website that lets you see what the rest of the school year will be like, given current progress. Change what you get done each day, and instantly see the results!
