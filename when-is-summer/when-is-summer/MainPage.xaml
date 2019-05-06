@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
-    </Grid>
+		<GridView x:Name="Days" HorizontalAlignment="Stretch" Margin="0" VerticalAlignment="Stretch" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Top"/>
+	</Grid>
 </Page>
